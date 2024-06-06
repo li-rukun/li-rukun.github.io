@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 李如锟
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Li Ru Kun
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rukun
+last_name: Li
 
 # Status emoji
 status:
@@ -20,31 +20,34 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master's student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Qilu University of Technology
+    url: https://www.qlu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:backpacker123@126.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+#   - icon: brands/x
+#     url: https://twitter.com/GetResearchDev
+#   - icon: brands/instagram
+#     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/li-rukun
+  - icon: brands/weixin
+    url: 'wechat://15065246592'
+    label: Wechat
+#   - icon: brands/linkedin
+#     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+#   - icon: academicons/orcid
+#     url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -52,30 +55,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Control Science and Engineering
+    institution: Qilu University of Technology
+    date_start: 2022-09-01
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng Measurement and Control Technology and Instruments
+    institution: Qilu University of Technology
+    date_start: 2017-09-01
+    date_end: 2021-06-30
     summary: |
       GPA: 3.4/4.0
       
