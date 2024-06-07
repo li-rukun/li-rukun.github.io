@@ -52,7 +52,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Robotics
 
 education:
   - area: MEng Control Science and Engineering
