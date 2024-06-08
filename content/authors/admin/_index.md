@@ -44,15 +44,15 @@ profiles:
     label: Wechat
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com/
 #   - icon: academicons/orcid
 #     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence  #change
-  - Computational Linguistics
   - Robotics
+  - Artificial Intelligence
+  - Embedded Technology
 
 education:
   - area: MEng Control Science and Engineering
@@ -68,13 +68,11 @@ education:
     institution: Qilu University of Technology
     date_start: 2017-09-01
     date_end: 2021-06-30
-    summary: |  #change
-      GPA: 3.4/4.0  
-      
+    summary: |
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Automatic Control Theory
+      - Principle of Microcontroller
+      - C++ programming
 work:
   - position: Intern
     company_name: 山东优宝特智能机器人有限公司
