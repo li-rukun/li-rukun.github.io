@@ -59,26 +59,26 @@ education:
     institution: Qilu University of Technology
     date_start: 2022-09-01
     date_end: 2025-06-30
-    summary: |
+    summary: |  #change
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://example.com'  #change
   - area: BEng Measurement and Control Technology and Instruments
     institution: Qilu University of Technology
     date_start: 2017-09-01
     date_end: 2021-06-30
-    summary: |
-      GPA: 3.4/4.0
+    summary: |  #change
+      GPA: 3.4/4.0  
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Intern
+    company_name: 山东优宝特智能机器人有限公司
+    company_url: 'https://www.yobotics.cn/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
@@ -87,18 +87,18 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
