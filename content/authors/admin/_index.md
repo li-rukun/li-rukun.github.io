@@ -111,7 +111,7 @@ skills:
       - name: Modeling
         description: ''
         percent: 75
-        icon: modeling.svg     #change
+        icon: chart-bar     #change
       - name: Simulation and Optimization
         description: ''
         percent: 80
