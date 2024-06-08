@@ -165,12 +165,20 @@ awards:
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: '2022中国机器人大赛暨RoboCup机器人世界杯中国赛'
     url: http://robocup.drct-caa.org.cn/
-    certificate_url: /uploads/resume.pdf
+    certificate_url: /uploads/2022Robocup.pdf
     date: '2022-11-25'
     awarder: 中国自动化学会
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems.
+  - title: '2023中国机器人大赛暨RoboCup机器人世界杯中国赛'
+    url: http://robocup.drct-caa.org.cn/
+    certificate_url: /uploads/2023Robocup.pdf
+    date: '2023-10-13'
+    awarder: 中国自动化学会
+    icon: edx
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. 
 ---
 
 ## About Me
