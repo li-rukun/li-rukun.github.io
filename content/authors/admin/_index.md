@@ -112,7 +112,7 @@ skills:
         description: ''
         percent: 75
         icon: chart-bar     #change
-      - name: Simulation and Optimization
+      - name: Simulation
         description: ''
         percent: 80
         icon: circle-stack  #change
