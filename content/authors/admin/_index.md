@@ -111,7 +111,7 @@ skills:
       - name: Modeling
         description: ''
         percent: 75
-        icon: chart-bar     #change
+        icon: custom/modeling     #change
       - name: Simulation
         description: ''
         percent: 80
@@ -127,7 +127,7 @@ skills:
       - name: Travel
         description: ''
         percent: 100
-        icon: travel           #change
+        icon: custom/travel           #change
       - name: Photography
         description: ''
         percent: 80
