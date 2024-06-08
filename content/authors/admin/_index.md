@@ -10,9 +10,7 @@ first_name: Rukun
 last_name: Li
 
 # Status emoji
-status:
-  icon: ![(P IZV F4@H38NYJ7Y%()T](https://github.com/li-rukun/li-rukun.github.io/assets/84020744/b1bb0802-4135-481d-85d7-66b8fa4a956b)
-
+status: ☕️
 
 # Is this the primary user of the site?
 superuser: true
