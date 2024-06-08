@@ -50,7 +50,7 @@ profiles:
 #     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligence  #change
   - Computational Linguistics
   - Robotics
 
@@ -80,13 +80,13 @@ work:
     company_name: 山东优宝特智能机器人有限公司
     company_url: 'https://www.yobotics.cn/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-07-01
+    date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Hardware installation and maintenance of quadruped robots
+      - Compilation and debugging of quadruped robot code
+      - Hardware and software debugging of manipulators
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
