@@ -127,7 +127,7 @@ skills:
       - name: Travel
         description: ''
         percent: 100
-        icon: cat           #change
+        icon: <i class="fal fa-island-tropical" />           #change
       - name: Photography
         description: ''
         percent: 80
