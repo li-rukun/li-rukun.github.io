@@ -10,7 +10,8 @@ first_name: Rukun
 last_name: Li
 
 # Status emoji
-status: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
