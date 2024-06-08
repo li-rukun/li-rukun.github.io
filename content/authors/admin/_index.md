@@ -127,7 +127,7 @@ skills:
       - name: Travel
         description: ''
         percent: 100
-        icon: /assets/media/icons/travel.svg           #change
+        icon: travel           #change
       - name: Photography
         description: ''
         percent: 80
