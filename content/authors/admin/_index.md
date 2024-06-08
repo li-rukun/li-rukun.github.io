@@ -174,7 +174,7 @@ awards:
   - title: '第二十五届中国机器人及人工智能大赛'
     url: https://www.caairobot.com/
     certificate_url: /uploads/CRAIC2023.pdf
-    date: '2023-6-1'
+    date: '2023-06-1'
     awarder: 中国机器人及人工智能大赛组委会
     icon: edx
     summary: |
@@ -184,7 +184,7 @@ awards:
     certificate_url: /uploads/2023Robocup.pdf
     date: '2023-10-13'
     awarder: 中国自动化学会
-    icon: edx
+    icon: coursera
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. 
 ---
