@@ -165,7 +165,7 @@ awards:
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: '2022中国机器人大赛暨RoboCup机器人世界杯中国赛'
     url: http://robocup.drct-caa.org.cn/
-    certificate_url: static/uploads/resume.pdf
+    certificate_url: /uploads/resume.pdf
     date: '2022-11-25'
     awarder: 中国自动化学会
     icon: datacamp
