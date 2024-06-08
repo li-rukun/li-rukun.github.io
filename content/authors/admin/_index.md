@@ -174,7 +174,7 @@ awards:
   - title: '第二十五届中国机器人及人工智能大赛'
     url: https://www.caairobot.com/
     certificate_url: /uploads/CRAIC2023.pdf
-    date: '2023-06-1'
+    date: '2023-06-01'
     awarder: 中国机器人及人工智能大赛组委会
     icon: edx
     summary: |
