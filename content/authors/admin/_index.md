@@ -157,7 +157,7 @@ awards:
     certificate_url: /uploads/CRAIC2023.pdf
     date: '2023-06-01'
     awarder: 中国机器人及人工智能大赛组委会
-    icon: edx
+    icon: custom/craic
     summary: |
       在第二十五届中国机器人及人工智能大赛全国总决赛中，获得四足仿生机器人赛项（中型组）一等奖。
   - title: '2023中国机器人大赛暨RoboCup机器人世界杯中国赛'
