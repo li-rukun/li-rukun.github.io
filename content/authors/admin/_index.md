@@ -131,7 +131,7 @@ skills:
         percent: 80
         icon: custom/photography
 
-Programming Languages:
+Languages:
   - name: C++
     percent: 80
   - name: Python

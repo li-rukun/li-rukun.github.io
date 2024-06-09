@@ -30,6 +30,6 @@ sections:
       username: admin
   - block: resume-languages
     content:
-      title: Programming Languages
+      title: Languages
       username: admin
 ---
