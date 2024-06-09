@@ -8,17 +8,15 @@ authors:
   - Rukun Li
   - Renren Wang
   - Hongqian Lu
-  - et al
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Main contribution'
   - 'Equal contribution'
   - 'Equal contribution'
 
 date: '2020-08-22T00:00:00Z'
-doi: '10.1109/CCDC49329.2020.9164061'
+# doi: '10.1109/CCDC49329.2020.9164061'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-08-22T00:00:00Z'
@@ -41,7 +39,7 @@ tags:
   - 3D printing
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -79,7 +77,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!-- 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -88,4 +86,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
