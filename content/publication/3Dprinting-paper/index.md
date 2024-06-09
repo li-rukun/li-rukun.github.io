@@ -87,4 +87,5 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-[full text](https://ieeexplore.ieee.org/document/9164061/references#references)
+
+[Full text link](https://ieeexplore.ieee.org/document/9164061)
