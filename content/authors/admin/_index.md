@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/li-rukun
   - icon: brands/weixin
-    url: 'wechat://15065246592'
+    url: 'https://weixin.qq.com/'
     label: Wechat
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
@@ -172,4 +172,4 @@ awards:
 
 ## About Me
 
-Rukun Li is a graduate student majoring in Control Science and Engineering at Qilu University of Technology. His research focuses on stable locomotion control of quadruped mobile manipulators.
+Rukun Li is a master's student majoring in Control Science and Engineering at Qilu University of Technology. His research focuses on stable locomotion control of quadruped mobile manipulators.
