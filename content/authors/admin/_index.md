@@ -105,15 +105,15 @@ skills:
       - name: Programming
         description: ''
         percent: 85
-        icon: code-bracket
+        icon: custom/programming
       - name: Modeling
         description: ''
         percent: 75
-        icon: custom/modeling     #change
+        icon: custom/modeling
       - name: Simulation
         description: ''
         percent: 80
-        icon: circle-stack  #change
+        icon: custom/simulation
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -121,23 +121,23 @@ skills:
       - name: Sports
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: custom/sports
       - name: Travel
         description: ''
         percent: 100
-        icon: custom/travel           #change
+        icon: custom/travel
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/photography
 
-languages:
-  - name: Chinese
+Programming Languages:
+  - name: C++
     percent: 100
-  - name: English
+  - name: Python
     percent: 60
-  # - name: Portuguese
-  #   percent: 25
+  - name: Matlab
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
