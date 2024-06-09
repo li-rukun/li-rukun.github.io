@@ -151,7 +151,7 @@ awards:
     awarder: 中国自动化学会
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems.
+      在2022中国机器人大赛暨RoboCup机器人世界杯中国赛比赛中，获得四足仿生机器人-快递运送赛中型组二等奖。
   - title: '第二十五届中国机器人及人工智能大赛'
     url: https://www.caairobot.com/
     certificate_url: /uploads/CRAIC2023.pdf
@@ -159,7 +159,7 @@ awards:
     awarder: 中国机器人及人工智能大赛组委会
     icon: edx
     summary: |
-      Object-oriented programming (OOP).
+      在第二十五届中国机器人及人工智能大赛全国总决赛中，获得四足仿生机器人赛项（中型组）一等奖。
   - title: '2023中国机器人大赛暨RoboCup机器人世界杯中国赛'
     url: http://robocup.drct-caa.org.cn/
     certificate_url: /uploads/2023Robocup.pdf
@@ -167,7 +167,7 @@ awards:
     awarder: 中国自动化学会
     icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. 
+      在2022中国机器人大赛暨RoboCup机器人世界杯中国赛比赛中，获得四足仿生机器人-快递运送赛中型组一等奖（冠军）。 
 ---
 
 ## About Me
