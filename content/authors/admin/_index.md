@@ -133,7 +133,7 @@ skills:
 
 Programming Languages:
   - name: C++
-    percent: 100
+    percent: 80
   - name: Python
     percent: 60
   - name: Matlab
