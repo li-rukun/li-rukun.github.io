@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: iTab.png  #stacked-peaks.svg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a postgraduate student in the Intelligent Human-Computer Interaction team of Qilu University of Technology, where I am mainly responsible for the research of stable motion control of quadrupedal mobile manipulators.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
