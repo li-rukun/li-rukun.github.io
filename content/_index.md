@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a postgraduate student in the Intelligent Human-Computer Interaction team of Qilu University of Technology, where I am mainly responsible for the research of stable motion control of quadrupedal mobile manipulators.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a member of the Intelligent Human-Computer Interaction Team at Qilu University of Technology, mainly responsible for research on quadruped mobile manipulators. By delving into the motion planning, perception, and control techniques of quadruped mobile manipulators, I am exploring solutions to enable robots to move and perform tasks flexibly and adeptly in various complex environments.
         
         Please reach out to collaborate 😃
     design:
