@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a member of the Intelligent Human-Computer Interaction Team at Qilu University of Technology, mainly responsible for research on quadruped mobile manipulators. By delving into the motion planning, perception, and control techniques of quadruped mobile manipulators, I am exploring solutions to enable robots to move and perform tasks flexibly and adeptly in various complex environments.
+        I am a member of the Intelligent Human-Computer Interaction Team at Qilu University of Technology, mainly responsible for research on quadruped mobile manipulators. By delving into the motion planning, perception, and control techniques of quadruped mobile manipula-tors, I am exploring solutions to enable robots to move and perform tasks flexibly and adeptly in various complex environments.
         
         Please reach out to collaborate 😃
     design:
