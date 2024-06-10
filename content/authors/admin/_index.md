@@ -149,7 +149,7 @@ awards:
     certificate_url: /uploads/2022Robocup.pdf
     date: '2022-11-25'
     awarder: 中国自动化学会
-    icon: /media/icons/custom/rcccaa
+    icon: /media/icons/custom/rcccaa.svg
     summary: |
       在2022中国机器人大赛暨RoboCup机器人世界杯中国赛比赛中，获得四足仿生机器人-快递运送赛中型组二等奖。
   - title: '第二十五届中国机器人及人工智能大赛'
@@ -157,7 +157,7 @@ awards:
     certificate_url: /uploads/CRAIC2023.pdf
     date: '2023-06-01'
     awarder: 中国机器人及人工智能大赛组委会
-    icon: /media/icons/custom/craic
+    icon: /media/icons/custom/craic.svg
     summary: |
       在第二十五届中国机器人及人工智能大赛全国总决赛中，获得四足仿生机器人赛项（中型组）一等奖。
   - title: '2023中国机器人大赛暨RoboCup机器人世界杯中国赛'
@@ -165,7 +165,7 @@ awards:
     certificate_url: /uploads/2023Robocup.pdf
     date: '2023-10-13'
     awarder: 中国自动化学会
-    icon: /media/icons/custom/rcccaa
+    icon: /media/icons/custom/rcccaa.svg
     summary: |
       在2023中国机器人大赛暨RoboCup机器人世界杯中国赛比赛中，获得四足仿生机器人-快递运送赛中型组一等奖（冠军）。 
 ---
