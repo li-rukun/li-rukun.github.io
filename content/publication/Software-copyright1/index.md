@@ -19,7 +19,7 @@ date: '2023-09-20T00:00:00Z'
 # doi: '10.1109/CCDC49329.2020.9164061'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-22T00:00:00Z'
+publishDate: '2023-09-27T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,10 +30,10 @@ publication_types: ['software-copyright']
 publication: "*中华人民共和国国家版权局*"
 publication_short: "*国家版权局*"
 
-abstract: The main content of this research design is the system analysis and design of 3D printer based on cement component. The goal of the research design is to analyze and design a 3D printer system model based on cement components that can be controlled systematically. Some algorithms can be tested.
+abstract: 本软件实现四足机器人自主循迹的核心内容主要包括两方面：图像感知处理和方向调整策略。其中图像感知处理部分主要调用OpenCV库中的一些库函数来完成；方向调整策略使用的是速度分解的策略。四足机器人首先应能够感知到当前位置的红线信息。先利用彩色摄像头拍摄当前位置的图像，然后对图像做进一步的处理，包括图像二值化、腐蚀膨胀处理和轮廓提取。
 
 # Summary. An optional shortened abstract.
-summary: The main content of this research design is the system analysis and design of 3D printer based on cement component. The goal of the research design is to analyze and design a 3D printer system model based on cement components that can be controlled systematically. Some algorithms can be tested.
+summary: 本软件实现四足机器人自主循迹的核心内容主要包括两方面：图像感知处理和方向调整策略。其中图像感知处理部分主要调用OpenCV库中的一些库函数来完成；方向调整策略使用的是速度分解的策略。四足机器人首先应能够感知到当前位置的红线信息。先利用彩色摄像头拍摄当前位置的图像，然后对图像做进一步的处理，包括图像二值化、腐蚀膨胀处理和轮廓提取。
 
 tags:
   - 四足机器人
@@ -89,4 +89,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-[Full text link](https://ieeexplore.ieee.org/document/9164061)
+[Full text link](https://www.ccopyright.com.cn/)
