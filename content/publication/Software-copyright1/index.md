@@ -24,11 +24,11 @@ publishDate: '2020-08-22T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['software-copyright']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Chinese Control and Decision Conference*
-publication_short: In *CCDC*
+publication: "*中华人民共和国国家版权局*"
+publication_short: "*国家版权局*"
 
 abstract: The main content of this research design is the system analysis and design of 3D printer based on cement component. The goal of the research design is to analyze and design a 3D printer system model based on cement components that can be controlled systematically. Some algorithms can be tested.
 
