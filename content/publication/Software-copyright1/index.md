@@ -36,7 +36,8 @@ abstract: The main content of this research design is the system analysis and de
 summary: The main content of this research design is the system analysis and design of 3D printer based on cement component. The goal of the research design is to analyze and design a 3D printer system model based on cement components that can be controlled systematically. Some algorithms can be tested.
 
 tags:
-  - 3D printing
+  - 四足机器人
+  - 自主循迹
 
 # Display this page in the Featured widget?
 featured: false
