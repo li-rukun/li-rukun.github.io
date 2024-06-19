@@ -42,6 +42,12 @@ profiles:
   - icon: brands/weixin
     url: 'https://weixin.qq.com/'
     label: Wechat
+  - icon: custom/bilibili
+    url: 'https://www.bilibili.com/'
+    label: bilibili
+  - icon: custom/weibo
+    url: 'https://weibo.com/'
+    label: weibo
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
 #   - icon: academicons/google-scholar
