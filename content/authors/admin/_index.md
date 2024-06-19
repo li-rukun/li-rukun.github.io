@@ -39,7 +39,7 @@ profiles:
 #     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/li-rukun
-  - icon: brands/weixin
+  - icon: custom/wechat
     url: 'https://weixin.qq.com/'
     label: Wechat
   - icon: custom/bilibili
