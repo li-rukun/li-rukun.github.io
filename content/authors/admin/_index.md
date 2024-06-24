@@ -39,15 +39,16 @@ profiles:
 #     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/li-rukun
+    label: Github
   - icon: custom/wechat
     url: 'https://weixin.qq.com/'
     label: Wechat
   - icon: custom/bilibili
     url: 'https://space.bilibili.com/316575034'
     label: Bilibili
-  - icon: custom/Weibo
+  - icon: custom/weibo
     url: 'https://weibo.com/u/6213325896'
-    label: weibo
+    label: Weibo
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
 #   - icon: academicons/google-scholar
