@@ -43,7 +43,7 @@ profiles:
     url: 'https://weixin.qq.com/'
     label: Wechat
   - icon: custom/bilibili
-    url: 'https://www.bilibili.com/'
+    url: 'https://space.bilibili.com/316575034'
     label: bilibili
   - icon: custom/weibo
     url: 'https://weibo.com/'
