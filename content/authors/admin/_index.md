@@ -44,9 +44,9 @@ profiles:
     label: Wechat
   - icon: custom/bilibili
     url: 'https://space.bilibili.com/316575034'
-    label: bilibili
-  - icon: custom/weibo
-    url: 'https://weibo.com/'
+    label: Bilibili
+  - icon: custom/Weibo
+    url: 'https://weibo.com/u/6213325896'
     label: weibo
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
