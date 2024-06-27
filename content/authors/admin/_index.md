@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/email      #at-symbol
+  - icon: custom/email
     url: 'mailto:backpacker123@126.com'
     label: E-mail Me
 #   - icon: brands/x
