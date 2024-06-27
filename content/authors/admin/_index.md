@@ -52,7 +52,7 @@ profiles:
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
    - icon: academicons/google-scholar
-     url: https://scholar.google.com.hk/citations?hl=zh-CN&user=VjX8AcMAAAAJ
+     url: https://scholar.google.com.hk/citations?user=VjX8AcMAAAAJ
 #   - icon: academicons/orcid
 #     url: https://orcid.org/
 
