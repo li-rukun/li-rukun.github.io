@@ -40,8 +40,8 @@ profiles:
   - icon: brands/github
     url: https://github.com/li-rukun
     label: Github
-  - icon: custom/wechat
-    url: 'https://weixin.qq.com/'
+#  - icon: custom/wechat
+#    url: 'https://weixin.qq.com/'
     label: Wechat
   - icon: custom/bilibili
     url: 'https://space.bilibili.com/316575034'
