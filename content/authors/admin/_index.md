@@ -49,12 +49,12 @@ profiles:
   - icon: custom/weibo
     url: 'https://weibo.com/u/6213325896'
     label: Weibo
-#   - icon: brands/linkedin
-#     url: https://www.linkedin.com/
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com.hk/citations?user=VjX8AcMAAAAJ
+   - icon: academicons/google-scholar
+     url: https://scholar.google.com.hk/citations?user=VjX8AcMAAAAJ
 #   - icon: academicons/orcid
 #     url: https://orcid.org/
+#   - icon: brands/linkedin
+#     url: https://www.linkedin.com/
 
 interests:
   - Robotics
