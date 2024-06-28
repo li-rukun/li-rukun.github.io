@@ -49,8 +49,9 @@ profiles:
   - icon: custom/weibo
     url: 'https://weibo.com/u/6213325896'
     label: Weibo
-  - icon: academicons/google-scholar
+  - icon: custom/google-scholar
     url: https://scholar.google.com.hk/citations?user=VjX8AcMAAAAJ
+    label: Google-scholar
 #   - icon: academicons/orcid
 #     url: https://orcid.org/
 #   - icon: brands/linkedin
