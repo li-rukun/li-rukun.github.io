@@ -68,7 +68,7 @@ education:
     date_start: 2022-09-01
     date_end: 2025-06-30
     summary: |  #change
-      Thesis on *Stable Motion Control and Implementation of the Quadruped Robot with Single Arm in Complex Working Environments [LLMs](https://example.com/llms)*. Supervised by <a href="https://dqxy.qlu.edu.cn/_s100/2021/0916/c8150a173172/page.psp">Prof. Bin Li</a>. Presented papers at 2 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on *[Stable Motion Control and Implementation of the Quadruped Robot with Single Arm in Complex Working Environments](https://example.com/)*. Supervised by <a href="https://dqxy.qlu.edu.cn/_s100/2021/0916/c8150a173172/page.psp">Prof. Bin Li</a>. Presented papers at 2 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'  #change
