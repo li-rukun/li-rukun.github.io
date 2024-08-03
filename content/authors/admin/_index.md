@@ -171,7 +171,7 @@ awards:
   - title: '2023中国机器人大赛暨RoboCup机器人世界杯中国赛'
     url: http://robocup.drct-caa.org.cn/
     certificate_url: /uploads/2023Robocup.pdf
-    trophy_url: /uploads/2023Robocup.pdf
+    certificate_url: /uploads/2023Robocup.pdf
     date: '2023-10-13'
     awarder: 中国自动化学会
     # icon: rcccaa
