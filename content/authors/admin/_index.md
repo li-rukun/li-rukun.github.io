@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 李如锟
+title: Rukun Li
 
 # Name pronunciation (optional)
-name_pronunciation: Li Ru Kun
+# name_pronunciation: Li Ru Kun
 
 # Full name (for SEO)
 first_name: Rukun
@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Rukun Li is a master's student majoring in Control Science and Engineering at Qilu University of Technology. His research focuses on stable locomotion control of quadruped mobile manipulators.
+I am Rukun Li (李如锟), a master's student majoring in Control Science and Engineering at Qilu University of Technology. My research focuses on stable locomotion control of quadruped mobile manipulators.
