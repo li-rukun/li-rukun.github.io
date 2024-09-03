@@ -6,14 +6,14 @@ event_url: https://sias.buaa.edu.cn/index.htm
 
 location: Guilin, China
 address:
-  street: 450th #change
+  street: 450 Serra Mall #change
   city: Guilin
   region: the Guangxi Zhuang Autonomous Region
   postcode: '541000'
   country: China
 
 summary: Stable Locomotion Control for Quadruped Mobile Manipulator Based on Adaptive Estimation of Load Mass.
-abstract: 'The motion and operation of quadruped robots integrated with a manipulator are significant challenges in the field of legged robotics. In this paper, a stable locomotion control method for the quadruped mobile manipulator based on adaptive estimation of load mass is proposed. Firstly, the motion in the joint space is mapped to the end of the manipulator to obtain the motion state of the load, and the load mass is estimated based on the torso dynamics properties. Then, the force required to maintain the motion of the load and manipulator is obtained based on the manipulator dynamics model. Finally, by extending the torso dynamics model, this generalized force is used as a feed-forward compensation term in the upper controller planning to obtain the leg joint torques that satisfy both the torso motion demand and the force required by the manipulator. The feasibility and validity of the proposed method are verified based on the simulation software of Webots. Simulation results show that the robot can estimate the quality of the load and overcome the effects caused by the load to keep itself stable, which can improve the operating performance of the quadruped mobile manipulator.'
+abstract: 'The motion and operation of quadruped robots integrated with a manipulator are significant challenges in the field of legged robotics. In this paper, a stable locomotion control method for the quadruped mobile manipulator based on adaptive estimation of load mass is proposed.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +22,7 @@ date_end: '2024-10-27T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-10-27T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
