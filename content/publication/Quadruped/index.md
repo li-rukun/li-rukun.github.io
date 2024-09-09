@@ -25,7 +25,7 @@ date: '2024-5-26T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-27T00:00:00Z'
+publishDate: '2024-5-27T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
