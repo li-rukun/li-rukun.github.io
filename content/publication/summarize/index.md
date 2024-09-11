@@ -1,24 +1,24 @@
 ---
 title: "四足单臂机器人研究综述及系统集成与实现"
 authors:
-  - 李如锟
-  - 徐一明
-  - 郝子鑫
-  - 冯保硕
-  - 杨姝慧
-  - 李彬
+- 李如锟
+- 徐一明
+- 郝子鑫
+- 冯保硕
+- 杨姝慧
+- 李彬
 author_notes:
-  - 'Main contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+- 'Main contribution'
+- 'Equal contribution'
+- 'Equal contribution'
+- 'Equal contribution'
+- 'Equal contribution'
+- 'Equal contribution'
 date: "2024-09-01T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-01T00:00:00Z"
+publishDate: "2024-09-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
