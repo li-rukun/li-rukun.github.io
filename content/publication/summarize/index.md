@@ -27,7 +27,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*齐鲁工业大学学报, 1*(1)"
-publication_short: ""
+publication_short: "齐工大学报"
 
 abstract: 随着经济社会的发展，科学技术不断进步，人类的生产生活方式发生了翻天覆地的变化，很多工作已经被各式各样的机器人代替或由机器人协助人类来完成。而大多数操作型机器人是基于固定基座、轮式移动平台或履带式移动平台的，无法进入复杂地形环境中执行操作任务，四足单臂机器人很好地解决了这一问题。基于四足单臂机器人展开调研，首先介绍了目前国内外几款具有代表性的四足单臂机器人平台。然后分别介绍了基于仿真平台和物理实验平台的四足单臂机器人研究现状，并分析了当前主流的研究思路。接着，列举了一些常用的仿真平台，并对四足单臂机器人系统集成与实现进行了介绍。最后，进行总结并介绍了未来研究工作的思路。
 
@@ -45,7 +45,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
