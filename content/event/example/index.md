@@ -6,7 +6,7 @@ event_url: https://sias.buaa.edu.cn/index.htm
 
 location: Guilin, China
 address:
-  street: 450 Serra Mall #change
+  street: XXX #change
   city: Guilin
   region: the Guangxi Zhuang Autonomous Region
   postcode: '541000'
