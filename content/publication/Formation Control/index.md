@@ -19,11 +19,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-5-26T00:00:00Z'
+date: '2024-01-01T00:00:00Z'    #change
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-27T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'     #change
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
