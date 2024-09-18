@@ -67,8 +67,8 @@ education:
     institution: Qilu University of Technology
     date_start: 2022-09-01
     date_end: 2025-06-30
-    summary: |  #change
-      Thesis on *<a href="https://example.com/">Stable Motion Control and Implementation of the Quadruped Robot with Single Arm in Complex Working Environments</a>*. Supervised by <a href="https://dqxy.qlu.edu.cn/_s100/2021/0916/c8150a173172/page.psp">Prof. Bin Li</a>. Presented papers at 2 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |  #change     Presented papers at 2 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on *<a href="https://example.com/">Stable Motion Control and Implementation of the Quadruped Robot with Single Arm in Complex Working Environments</a>*. Supervised by <a href="https://dqxy.qlu.edu.cn/_s100/2021/0916/c8150a173172/page.psp">Prof. Bin Li</a>.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'  #change
