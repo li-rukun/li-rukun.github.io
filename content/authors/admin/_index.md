@@ -42,7 +42,7 @@ profiles:
     label: Github
   - icon: custom/wechat
     url: 'https://weixin.qq.com/'
-    label: Wechat
+    label: '<img src="content/authors/admin/wechat.jpeg" alt="WeChat" width="100" height="100"/>'
   - icon: custom/bilibili
     url: 'https://space.bilibili.com/316575034'
     label: Bilibili
