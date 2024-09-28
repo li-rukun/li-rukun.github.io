@@ -1,6 +1,6 @@
 ---
 title: Implementation of VMC+WBC algorithm for bipedal robot.
-date: 2023-05-28
+date: 2024-01-15
 external_link: ''
 tags:
   - Bipedal robot
