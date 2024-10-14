@@ -5,7 +5,7 @@ external_link: https://github.com/li-rukun/mini_cheetah_docker.git
 tags:
   - Mini cheetah
   - Docker
-  - Ubuntu
+  - Ubuntu 18.04
 ---
 
 Setup of the Mini Cheetah development environment based on Docker (Ubuntu version 18.04).
